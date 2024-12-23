@@ -1,6 +1,6 @@
 # Ex04 Places Around Me
 ## Date: 
-10-12-2024
+23-12-2024
 ## AIM
 To develop a website to display details about the places around my house.
 
@@ -38,7 +38,7 @@ map.html
 <font color="red"><b>Anna Nagar</b></font>
 </h1>
 <h3 align="center">
-<font color="blue"><b>Anand K 24900721</b></font>
+<font color="blue"><b>A PRAVEENA 24006885</b></font>
 </h3>
 <center>
 
@@ -120,15 +120,8 @@ vr.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot 2024-12-10 234135.png>)
-![alt text](<Screenshot 2024-12-10 233926.png>)
-![alt text](<Screenshot 2024-12-10 233939.png>)
-![alt text](<Screenshot 2024-12-10 233951.png>)
-![alt text](<Screenshot 2024-12-10 234003.png>)
-![alt text](<Screenshot 2024-12-10 234020.png>)
-
-
-
+![alt text](<Screenshot 2024-12-23 123421.png>) ![alt text](<Screenshot 2024-12-23 123427.png>) ![alt text](<Screenshot 2024-12-23 123433.png>) ![alt text](<Screenshot 2024-12-23 123441.png>)![alt text](<Screenshot 2024-12-23 123448.png>)
+![alt text](<Screenshot 2024-12-23 123455.png>)
 
 
 
